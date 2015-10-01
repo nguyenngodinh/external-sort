@@ -1,4 +1,4 @@
-# External Sort
+# external sort
 
 This project is an implementation of the External Sort algorithm in C++.
 
